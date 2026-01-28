@@ -131,7 +131,8 @@ This allows music to continue playing while the game runs.
 .
 ├── Flappy_Bird_with_music.asm   # Game + multitasking + sound implementation
 ├── README.md                   # Project documentation
-└── CONTRIBUTING.md             # Contribution guidelines
+└── Docs
+     └──CONTRIBUTING.md             # Contribution guidelines
 ```
 
 ---
